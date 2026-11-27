@@ -1,0 +1,538 @@
+居家	nhà ở	住宅
+居家	căn hộ	公寓
+居家	chung cư	公寓大樓
+居家	phòng	房間
+居家	phòng khách	客廳
+居家	phòng ngủ	臥室
+居家	phòng tắm	浴室
+居家	nhà vệ sinh	廁所
+居家	phòng ăn	餐廳（家中）
+居家	ban công	陽台
+居家	sân	院子
+居家	vườn	花園
+居家	cửa	門
+居家	cửa sổ	窗戶
+居家	cầu thang	樓梯
+居家	thang máy	電梯
+居家	tầng	樓層
+居家	tầng một	一樓
+居家	tường	牆
+居家	sàn nhà	地板
+居家	trần nhà	天花板
+居家	mái nhà	屋頂
+居家	chìa khóa	鑰匙
+居家	ổ khóa	鎖
+居家	bàn	桌子
+居家	ghế	椅子
+居家	ghế sofa	沙發
+居家	giường	床
+居家	gối	枕頭
+居家	chăn	被子
+居家	nệm	床墊
+居家	tủ	櫃子
+居家	tủ quần áo	衣櫃
+居家	kệ sách	書架
+居家	gương	鏡子
+居家	đèn	燈
+居家	quạt	電風扇
+居家	điều hòa	冷氣
+居家	máy lạnh	冷氣（南部）
+居家	ti vi	電視
+居家	máy giặt	洗衣機
+居家	bồn tắm	浴缸
+居家	vòi sen	蓮蓬頭
+居家	bồn rửa	洗手台
+居家	xà phòng	肥皂
+居家	dầu gội	洗髮精
+居家	kem đánh răng	牙膏
+居家	bàn chải đánh răng	牙刷
+居家	khăn tắm	浴巾
+居家	giấy vệ sinh	衛生紙
+居家	thùng rác	垃圾桶
+居家	rác	垃圾
+居家	chổi	掃把
+居家	thảm	地毯
+居家	rèm cửa	窗簾
+居家	ổ cắm	插座
+居家	công tắc	開關
+居家	điện	電
+居家	nước máy	自來水
+居家	ga	瓦斯
+居家	tiền nhà	房租
+居家	thuê nhà	租房子
+居家	chủ nhà	房東
+居家	dọn dẹp	打掃
+居家	quét nhà	掃地
+居家	lau nhà	拖地
+居家	chuyển nhà	搬家
+居家	hộp	盒子
+居家	cái kéo	剪刀
+居家	pin	電池
+居家	bật	打開（電器）
+居家	tắt	關掉（電器）
+城市與地點	thành phố	城市
+城市與地點	thủ đô	首都
+城市與地點	nông thôn	鄉下
+城市與地點	làng	村莊
+城市與地點	quê	家鄉；鄉下
+城市與地點	quê hương	故鄉
+城市與地點	tỉnh	省
+城市與地點	quận	郡；區
+城市與地點	huyện	縣
+城市與地點	phường	坊（行政區）
+城市與地點	xã	社（鄉）
+城市與地點	đường phố	街道
+城市與地點	phố	街
+城市與地點	ngõ	巷子（北部）
+城市與地點	hẻm	巷子（南部）
+城市與地點	ngã tư	十字路口
+城市與地點	đèn giao thông	紅綠燈
+城市與地點	vỉa hè	人行道
+城市與地點	cầu	橋
+城市與地點	địa chỉ	地址
+城市與地點	chợ	市場
+城市與地點	siêu thị	超市
+城市與地點	cửa hàng	商店
+城市與地點	cửa hàng tiện lợi	便利商店
+城市與地點	trung tâm thương mại	購物中心
+城市與地點	nhà hàng	餐廳
+城市與地點	quán	小店；小吃店
+城市與地點	quán ăn	小吃店
+城市與地點	quán cà phê	咖啡店
+城市與地點	quán bar	酒吧
+城市與地點	khách sạn	飯店
+城市與地點	nhà nghỉ	旅館；民宿
+城市與地點	ngân hàng	銀行
+城市與地點	bưu điện	郵局
+城市與地點	đồn công an	派出所
+城市與地點	trường học	學校
+城市與地點	đại học	大學
+城市與地點	thư viện	圖書館
+城市與地點	bảo tàng	博物館
+城市與地點	công viên	公園
+城市與地點	sở thú	動物園
+城市與地點	rạp chiếu phim	電影院
+城市與地點	nhà hát	劇院
+城市與地點	sân vận động	體育場
+城市與地點	phòng tập gym	健身房
+城市與地點	bể bơi	游泳池（北部）
+城市與地點	hồ bơi	游泳池（南部）
+城市與地點	chùa	寺廟
+城市與地點	đền	廟（祭祀神明）
+城市與地點	nhà thờ	教堂
+城市與地點	công ty	公司
+城市與地點	văn phòng	辦公室
+城市與地點	nhà máy	工廠
+城市與地點	tòa nhà	大樓
+城市與地點	đại sứ quán	大使館
+城市與地點	lãnh sự quán	領事館
+城市與地點	tiệm cắt tóc	理髮店
+城市與地點	tiệm giặt là	洗衣店
+城市與地點	hiệu sách	書店
+城市與地點	tiệm bánh	麵包店
+城市與地點	cây xăng	加油站
+城市與地點	bãi đỗ xe	停車場
+城市與地點	trung tâm	中心
+城市與地點	khu vực	區域
+城市與地點	bên trái	左邊
+城市與地點	bên phải	右邊
+城市與地點	phía trước	前面
+城市與地點	phía sau	後面
+城市與地點	bên cạnh	旁邊
+城市與地點	ở giữa	中間
+城市與地點	đối diện	對面
+城市與地點	trên	上面
+城市與地點	dưới	下面
+城市與地點	trong	裡面
+城市與地點	ngoài	外面
+城市與地點	gần	近
+城市與地點	xa	遠
+城市與地點	ở đâu	在哪裡
+城市與地點	đây	這裡
+城市與地點	đó	那裡
+城市與地點	kia	那邊
+城市與地點	đâu	哪裡
+城市與地點	hướng	方向
+城市與地點	bắc	北
+城市與地點	nam	南；男
+城市與地點	đông	東；冬；擁擠
+城市與地點	tây	西
+城市與地點	bản đồ	地圖
+交通	giao thông	交通
+交通	xe	車
+交通	xe máy	機車
+交通	xe đạp	腳踏車
+交通	ô tô	汽車
+交通	xe hơi	汽車（南部）
+交通	xe buýt	公車
+交通	xe khách	客運
+交通	xe tải	卡車
+交通	taxi	計程車
+交通	xe ôm	機車計程車
+交通	xích lô	三輪車
+交通	tàu	船；火車
+交通	tàu hỏa	火車
+交通	tàu điện ngầm	地鐵
+交通	thuyền	小船
+交通	máy bay	飛機
+交通	sân bay	機場
+交通	ga tàu	火車站
+交通	bến xe	客運站
+交通	trạm xe buýt	公車站
+交通	bến cảng	港口
+交通	vé	票
+交通	vé khứ hồi	來回票
+交通	một chiều	單程；單行道
+交通	lái xe	開車
+交通	đi xe	騎車；搭車
+交通	lên xe	上車
+交通	xuống xe	下車
+交通	đỗ xe	停車（北部）
+交通	đậu xe	停車（南部）
+交通	bằng lái xe	駕照
+交通	tài xế	司機
+交通	hành khách	乘客
+交通	tắc đường	塞車（北部）
+交通	kẹt xe	塞車（南部）
+交通	tai nạn	事故
+交通	đường cao tốc	高速公路
+交通	đường	路
+交通	rẽ	轉彎（北部）
+交通	quẹo	轉彎（南部）
+交通	rẽ trái	左轉
+交通	rẽ phải	右轉
+交通	đi thẳng	直走
+交通	quay lại	回頭；返回
+交通	dừng lại	停下
+交通	chạy	跑；行駛
+交通	tốc độ	速度
+交通	xăng	汽油
+交通	đổ xăng	加油
+交通	cất cánh	起飛
+交通	hạ cánh	降落
+交通	chuyến bay	航班
+交通	cửa khẩu	關口；口岸
+交通	hành lý	行李
+交通	va li	行李箱
+交通	gửi hành lý	託運行李
+交通	thẻ lên máy bay	登機證
+交通	giờ khởi hành	出發時間
+旅行	du lịch	旅行；旅遊
+旅行	đi du lịch	去旅行
+旅行	khách du lịch	遊客
+旅行	hướng dẫn viên	導遊
+旅行	tour	旅遊團
+旅行	hộ chiếu	護照
+旅行	thị thực	簽證
+旅行	visa	簽證
+旅行	đặt phòng	訂房
+旅行	đặt vé	訂票
+旅行	nhận phòng	入住
+旅行	trả phòng	退房
+旅行	lễ tân	櫃台；接待
+旅行	phòng đơn	單人房
+旅行	phòng đôi	雙人房
+旅行	đặt trước	預訂
+旅行	hủy	取消
+旅行	chụp ảnh	拍照
+旅行	ảnh	照片
+旅行	máy ảnh	相機
+旅行	quà lưu niệm	紀念品
+旅行	đặc sản	特產
+旅行	cảnh đẹp	美景
+旅行	danh lam thắng cảnh	名勝古蹟
+旅行	di tích	古蹟
+旅行	phong cảnh	風景
+旅行	khám phá	探索
+旅行	tham quan	參觀
+旅行	nghỉ mát	避暑；度假
+旅行	bãi biển	海灘
+旅行	đảo	島
+旅行	vịnh	灣
+旅行	Vịnh Hạ Long	下龍灣
+旅行	Hà Nội	河內
+旅行	Thành phố Hồ Chí Minh	胡志明市
+旅行	Sài Gòn	西貢
+旅行	Đà Nẵng	峴港
+旅行	Huế	順化
+旅行	Hội An	會安
+旅行	Nha Trang	芽莊
+旅行	Đà Lạt	大叻
+旅行	Phú Quốc	富國島
+旅行	Sa Pa	沙壩
+旅行	đổi tiền	換錢
+旅行	lạc đường	迷路
+旅行	đi lạc	迷路
+旅行	hỏi đường	問路
+旅行	cứu	救
+旅行	cứu tôi với	救命
+旅行	nguy hiểm	危險
+旅行	an toàn	安全
+旅行	mất	遺失；花費（時間）
+旅行	bị mất	被偷；弄丟
+旅行	ăn cắp	偷
+自然與天氣	thiên nhiên	大自然
+自然與天氣	thời tiết	天氣
+自然與天氣	trời	天；天空
+自然與天氣	mặt trời	太陽
+自然與天氣	mặt trăng	月亮
+自然與天氣	sao	星星；為什麼
+自然與天氣	mây	雲
+自然與天氣	mưa	雨；下雨
+自然與天氣	mưa phùn	毛毛雨
+自然與天氣	gió	風
+自然與天氣	bão	颱風
+自然與天氣	sấm	雷
+自然與天氣	sét	閃電
+自然與天氣	tuyết	雪
+自然與天氣	sương mù	霧
+自然與天氣	nắng	陽光；晴
+自然與天氣	trời nắng	晴天
+自然與天氣	trời mưa	下雨天
+自然與天氣	nhiều mây	多雲
+自然與天氣	nóng bức	悶熱
+自然與天氣	lạnh	冷
+自然與天氣	mát	涼爽
+自然與天氣	ấm	溫暖
+自然與天氣	ẩm	潮濕
+自然與天氣	khô	乾燥
+自然與天氣	độ	度
+自然與天氣	cầu vồng	彩虹
+自然與天氣	lũ lụt	水災
+自然與天氣	động đất	地震
+自然與天氣	hạn hán	乾旱
+自然與天氣	núi	山
+自然與天氣	đồi	丘陵
+自然與天氣	sông	河
+自然與天氣	suối	溪
+自然與天氣	hồ	湖
+自然與天氣	biển	海
+自然與天氣	đại dương	海洋
+自然與天氣	sóng	浪
+自然與天氣	thác	瀑布
+自然與天氣	rừng	森林
+自然與天氣	hang động	洞穴
+自然與天氣	cát	沙
+自然與天氣	đất	土地；土
+自然與天氣	đá	石頭
+自然與天氣	cây	樹；植物
+自然與天氣	hoa	花
+自然與天氣	lá	葉子
+自然與天氣	cỏ	草
+自然與天氣	cành	樹枝
+自然與天氣	rễ	根
+自然與天氣	ruộng	田
+自然與天氣	lúa	稻子
+自然與天氣	tre	竹子
+自然與天氣	hoa sen	蓮花
+自然與天氣	hoa đào	桃花
+自然與天氣	hoa mai	黃梅花
+自然與天氣	không khí	空氣
+自然與天氣	lửa	火
+自然與天氣	khói	煙
+自然與天氣	môi trường	環境
+自然與天氣	ô nhiễm	污染
+自然與天氣	trái đất	地球
+自然與天氣	thế giới	世界
+自然與天氣	vũ trụ	宇宙
+自然與天氣	ánh sáng	光
+自然與天氣	bóng	影子；球
+自然與天氣	dự báo thời tiết	天氣預報
+動物	động vật	動物
+動物	con vật	動物（口語）
+動物	con	隻（動物量詞）
+動物	chó	狗
+動物	mèo	貓
+動物	gà	雞
+動物	vịt	鴨
+動物	ngỗng	鵝
+動物	lợn	豬（北部）
+動物	heo	豬（南部）
+動物	bò	牛
+動物	trâu	水牛
+動物	dê	山羊
+動物	cừu	綿羊
+動物	ngựa	馬
+動物	lừa	驢
+動物	thỏ	兔子
+動物	chuột	老鼠
+動物	chim	鳥
+動物	bồ câu	鴿子
+動物	vẹt	鸚鵡
+動物	cú	貓頭鷹
+動物	đại bàng	老鷹
+動物	cá voi	鯨魚
+動物	cá heo	海豚
+動物	cá mập	鯊魚
+動物	rùa	烏龜
+動物	ếch	青蛙
+動物	rắn	蛇
+動物	cá sấu	鱷魚
+動物	thằn lằn	蜥蜴
+動物	hổ	老虎
+動物	sư tử	獅子
+動物	voi	大象
+動物	khỉ	猴子
+動物	gấu	熊
+動物	gấu trúc	貓熊
+動物	hươu cao cổ	長頸鹿
+動物	hươu	鹿
+動物	ngựa vằn	斑馬
+動物	cáo	狐狸
+動物	sói	狼
+動物	dơi	蝙蝠
+動物	côn trùng	昆蟲
+動物	muỗi	蚊子
+動物	ruồi	蒼蠅
+動物	kiến	螞蟻
+動物	ong	蜜蜂
+動物	bướm	蝴蝶
+動物	nhện	蜘蛛
+動物	gián	蟑螂
+動物	sâu	蟲
+動物	ốc sên	蝸牛
+動物	rồng	龍
+動物	phượng hoàng	鳳凰
+動物	lông	毛；羽毛
+動物	đuôi	尾巴
+動物	cánh	翅膀
+動物	thú cưng	寵物
+動物	nuôi chó	養狗
+職業	nghề nghiệp	職業
+職業	nghề	行業；手藝
+職業	công việc	工作
+職業	giáo viên	老師
+職業	thầy giáo	男老師
+職業	cô giáo	女老師
+職業	giáo sư	教授
+職業	học sinh	學生（中小學）
+職業	sinh viên	大學生
+職業	kỹ sư	工程師
+職業	lập trình viên	程式設計師
+職業	nhân viên	職員
+職業	nhân viên văn phòng	上班族
+職業	quản lý	經理；管理
+職業	giám đốc	董事；總經理
+職業	thư ký	秘書
+職業	kế toán	會計
+職業	luật sư	律師
+職業	thẩm phán	法官
+職業	cảnh sát	警察
+職業	công an	公安
+職業	lính	士兵
+職業	bộ đội	軍人
+職業	lính cứu hỏa	消防員
+職業	nông dân	農夫
+職業	ngư dân	漁夫
+職業	công nhân	工人
+職業	thợ	師傅；工匠
+職業	thợ điện	電工
+職業	thợ sửa xe	修車師傅
+職業	thợ cắt tóc	理髮師
+職業	thợ may	裁縫
+職業	đầu bếp	廚師
+職業	phục vụ	服務生；服務
+職業	nhân viên bán hàng	店員
+職業	người bán hàng	小販；賣家
+職業	doanh nhân	商人
+職業	nhà báo	記者
+職業	phóng viên	記者
+職業	nhà văn	作家
+職業	họa sĩ	畫家
+職業	ca sĩ	歌手
+職業	nhạc sĩ	音樂家；作曲家
+職業	diễn viên	演員
+職業	vận động viên	運動員
+職業	phi công	飛行員
+職業	tiếp viên hàng không	空服員
+職業	kiến trúc sư	建築師
+職業	nhà khoa học	科學家
+職業	dược sĩ	藥劑師
+職業	phiên dịch	口譯；翻譯員
+職業	thông dịch viên	口譯員
+職業	người giúp việc	幫傭
+職業	bảo vệ	保全；保護
+職業	nội trợ	家庭主婦
+職業	người mẫu	模特兒
+職業	nhiếp ảnh gia	攝影師
+職業	thực tập sinh	實習生
+職業	tự do	自由；自由業
+學校與學習	trường	學校
+學校與學習	lớp	班級；教室
+學校與學習	lớp học	教室；課
+學校與學習	tiểu học	小學
+學校與學習	trung học	中學
+學校與學習	trung học cơ sở	國中
+學校與學習	trung học phổ thông	高中
+學校與學習	mẫu giáo	幼稚園
+學校與學習	học	學；讀書
+學校與學習	học tập	學習
+學校與學習	dạy	教
+學校與學習	bài	課；功課
+學校與學習	bài học	課程
+學校與學習	bài tập	作業；練習
+學校與學習	bài tập về nhà	回家作業
+學校與學習	bài kiểm tra	考試；測驗
+學校與學習	kỳ thi	考試
+學校與學習	thi	考試
+學校與學習	điểm	分數；點
+學校與學習	đỗ	考上；及格（北部）
+學校與學習	đậu	及格（南部）；豆
+學校與學習	trượt	不及格；滑
+學校與學習	học kỳ	學期
+學校與學習	năm học	學年
+學校與學習	môn học	科目
+學校與學習	toán	數學
+學校與學習	toán học	數學
+學校與學習	văn	文學；國文
+學校與學習	lịch sử	歷史
+學校與學習	địa lý	地理
+學校與學習	vật lý	物理
+學校與學習	hóa học	化學
+學校與學習	sinh học	生物
+學校與學習	tiếng Anh	英文
+學校與學習	ngoại ngữ	外語
+學校與學習	âm nhạc	音樂
+學校與學習	mỹ thuật	美術
+學校與學習	thể dục	體育
+學校與學習	sách	書
+學校與學習	vở	筆記本
+學校與學習	sổ tay	筆記本；手冊
+學校與學習	bút	筆
+學校與學習	bút chì	鉛筆
+學校與學習	bút bi	原子筆
+學校與學習	tẩy	橡皮擦
+學校與學習	thước	尺
+學校與學習	giấy	紙
+學校與學習	bảng	黑板；表
+學校與學習	phấn	粉筆
+學校與學習	cặp sách	書包
+學校與學習	từ điển	字典
+學校與學習	từ	字；詞；從
+學校與學習	từ vựng	詞彙
+學校與學習	ngữ pháp	文法
+學校與學習	câu	句子
+學校與學習	phát âm	發音
+學校與學習	chữ	字
+學校與學習	chữ cái	字母
+學校與學習	đoạn văn	段落
+學校與學習	câu hỏi	問題
+學校與學習	câu trả lời	答案
+學校與學習	ví dụ	例子
+學校與學習	nghĩa	意思
+學校與學習	luyện tập	練習
+學校與學習	ôn tập	複習
+學校與學習	học thuộc	背誦
+學校與學習	ghi chép	做筆記
+學校與學習	giải thích	解釋
+學校與學習	dịch	翻譯
+學校與學習	bằng cấp	學位；文憑
+學校與學習	tốt nghiệp	畢業
+學校與學習	học bổng	獎學金
+學校與學習	du học	留學
+學校與學習	du học sinh	留學生
+學校與學習	nghỉ học	休學；請假不上課
+學校與學習	hiệu trưởng	校長
+學校與學習	bạn học	同學
+學校與學習	ký túc xá	宿舍
+學校與學習	kiến thức	知識
